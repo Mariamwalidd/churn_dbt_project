@@ -1,0 +1,6 @@
+churn_project:
+  outputs:
+    dev:
+      type: duckdb
+      path: /workspaces/churn_project/churn.duckdb
+  target: dev
